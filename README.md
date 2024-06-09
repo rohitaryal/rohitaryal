@@ -1,8 +1,6 @@
-![Alt text](./images/banner.png "now don't you dare steal this")
+<p align="center">
+    <img src="./images/banner_1.png" alt="Banner Art" title="Someone should put you in a box floating down the river grandma!" height="180px">
+</p>
 
----
-HI, i am _____, <br>
-I love sponge-bob <br>
-You should too. <br>
-
----
+"No spongebob, we are not caveman. We have technology."<br>
+<p align="right"><b>- Patrick</b></p>
